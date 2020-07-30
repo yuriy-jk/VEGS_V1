@@ -1,7 +1,7 @@
-djangorestframework
-psycopg2
-djoser
-pillow
-channels
-redis
-channels_redis
+Python==3.8
+Django==3.0.8
+djangorestframework==3.11.0
+psycopg2==2.8.5
+djoser==2.0.3
+pillow==7.2.0
+pip==20.2
