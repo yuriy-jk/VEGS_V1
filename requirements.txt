@@ -1,0 +1,7 @@
+djangorestframework
+psycopg2
+djoser
+pillow
+channels
+redis
+channels_redis

@@ -1,0 +1,11 @@
+from account.models import User, UserProfile, UserPreference
+from user_media.models import UserMedia
+ user = User.objects.filter(email='man1@bk.ru')
+ profile = UserProfile.objects.filter(user=2)
+ preference = UserPreference.objects.filter(user=2)
+
+
+UserProfile.objects.all()
+
+
+python manage.py shell
